@@ -1,0 +1,9 @@
+[
+  {"id":1,"name":"Gaming Cards","slug":"gaming","icon":"\ud83c\udfae","color1":"#4c1d95","color2":"#7c3aed","description":"Top-up your favorite games","featured":true,"sort":1},
+  {"id":2,"name":"Gift Cards","slug":"gift","icon":"\ud83c\udf81","color1":"#b91c1c","color2":"#ef4444","description":"Gift cards for all occasions","featured":true,"sort":2},
+  {"id":3,"name":"Streaming","slug":"streaming","icon":"\ud83d\udcfa","color1":"#0f172a","color2":"#1e293b","description":"Stream your favorite content","featured":true,"sort":3},
+  {"id":4,"name":"Social Media","slug":"social","icon":"\ud83d\udcf1","color1":"#0369a1","color2":"#0ea5e9","description":"Boost your social presence","featured":false,"sort":4},
+  {"id":5,"name":"Software","slug":"software","icon":"\ud83d\udcbb","color1":"#065f46","color2":"#10b981","description":"Software licenses & keys","featured":false,"sort":5},
+  {"id":6,"name":"VPN & Security","slug":"vpn","icon":"\ud83d\udd12","color1":"#1e3a5f","color2":"#2563eb","description":"Stay safe online","featured":false,"sort":6},
+  {"id":7,"name":"E-Commerce","slug":"ecommerce","icon":"\ud83d\uded2","color1":"#92400e","color2":"#f59e0b","description":"Online shopping credits","featured":false,"sort":7}
+]

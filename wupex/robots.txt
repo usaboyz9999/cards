@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /admin
+Disallow: /install/
+Disallow: /storage/
+Disallow: /core/
+Disallow: /models/
+Disallow: /lang/
+Disallow: /config.php
+Disallow: /?page=login
+Disallow: /?page=register
+Disallow: /?page=checkout
+Disallow: /?page=account
+
+Allow: /assets/
+Allow: /uploads/
+Allow: /images/
+
+Sitemap: /sitemap.xml
